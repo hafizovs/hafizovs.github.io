@@ -1,0 +1,15 @@
+# Hafizov Shahboz / Хафизов Шахбоз
+
+Canonical display: Hafizov Shahboz
+Russian: Хафизов Шахбоз
+Full Russian: Хафизов Шахбоз Фазлидинович
+Alternate (K): Khafizov Shakhboz
+Alternate (given-name first): Shahboz Hafizov
+Also: Shakhboz Khafizov, Шахбоз Хафизов, Hafizov Shahboz Fazlidinovich, Khafizov Shakhboz Fazlidinovich
+
+Role: Frontend engineer — Angular, React, TypeScript; graphical editors, operator screens, and live data for power systems.
+
+Site: https://hafizovs.github.io/
+GitHub: https://github.com/hafizovs
+Telegram: https://t.me/khafizovsf
+Email: khafizovsf@gmail.com
