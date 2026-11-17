@@ -11,5 +11,6 @@ Role: Frontend engineer — Angular, React, TypeScript; graphical editors, opera
 
 Site: https://hafizovs.github.io/
 GitHub: https://github.com/hafizovs
+LinkedIn: https://www.linkedin.com/in/hafizov
 Telegram: https://t.me/khafizovsf
 Email: khafizovsf@gmail.com
